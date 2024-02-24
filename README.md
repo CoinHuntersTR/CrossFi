@@ -14,8 +14,11 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+
+## 2) Otomatik script çalıştırıp sizden istenen cüzdan adı ve Validator ismini giriyorsunuz.
+> Port yerine, değişiklik yapmayacaksanız 26 yazıp enter yapmanız yeterli.
 ```
-wget -q -O lava.sh https://raw.githubusercontent.com/CoinHuntersTR/Lava-Testnet-Rehberi/main/lava.sh && chmod +x lava.sh && ./lava.sh
+wget -q -O crossfi.sh https://raw.githubusercontent.com/CoinHuntersTR/CrossFi/main/crossfi.sh && chmod +x crossfi.sh && ./crossfi.sh
 ```
 
   
