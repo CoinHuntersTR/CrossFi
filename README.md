@@ -72,4 +72,14 @@ crossfid tx staking create-validator \
 -y
 ```
 
+### Kendi Validatorüne Token delege etme
+
+> `cüzdanismi` yerine kendi verdiğiniz ismi yazmanız gerekiyor.
+
+> 1MPX = 1000000000000000000mpx  yapıyor, yani 18 tane 0 var. Ona göre cüzdanınızdan, kendi validatörünüze delege edebilirsiniz.
+
+```
+crossfid tx staking delegate $(crossfid keys show cüzdanismi --bech val -a) 9000000000000000000000mpx --from cüzdanismi --chain-id crossfi-evm-testnet-1 --gas-adjustment 1.5 --gas auto --gas-prices 10000000000000mpx -y
+```
+
 
