@@ -65,7 +65,6 @@ crossfid tx staking create-validator \
 --min-self-delegation 1 \
 --pubkey $(crossfid tendermint show-validator) \
 --moniker "" \
---identity "" \
 --website "" \
 --details "CoinHunters Community" \
 --chain-id crossfi-evm-testnet-1 \
