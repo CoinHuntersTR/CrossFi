@@ -28,6 +28,10 @@ wget -q -O crossfi.sh https://raw.githubusercontent.com/CoinHuntersTR/CrossFi/ma
 
 > `cüzdanismi` yerine oto scriptte verdiğiniz ismi verin.
 
+> Cüzdanı açarken aldığınız kelimeleri girin.
+
+> Sizden şifre belirlemenizi isteyecek şifre belirleyin. Test cüzdanınıza node üzeriden açmış olacaksınız.
+
 ```
 crossfid keys add cüzdanismi --recover
 ```
