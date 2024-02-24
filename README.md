@@ -1,7 +1,7 @@
 <h1 align="center">CrossFi Testnet Kurulumu
-### Lava Node testini kuruyoruz. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: <a href="https://t.me/CoinHuntersTR/34102" target="_blank" rel="Coin Hunters TR" >Coin Hunters TR</a>
+  
 
-![lava-network-testnet-rehberi](https://user-images.githubusercontent.com/111747226/220886500-561d6199-3c6d-4af3-8a45-b003ac7768ba.png)
+![lava-network-testnet-rehberi](https://pbs.twimg.com/profile_banners/1681767569823334401/1698851466/1500x500)
 
 ## Sistem gereksinimleri:
 NODE TİPİ | CPU     | RAM      | SSD     |
