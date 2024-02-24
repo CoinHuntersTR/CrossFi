@@ -81,5 +81,7 @@ crossfid tx staking create-validator \
 ```
 crossfid tx staking delegate $(crossfid keys show cüzdanismi --bech val -a) 9000000000000000000000mpx --from cüzdanismi --chain-id crossfi-evm-testnet-1 --gas-adjustment 1.5 --gas auto --gas-prices 10000000000000mpx -y
 ```
+### Explorer
 
+> [BURADAN](https://testnet.itrocket.net/crossfi) explorer ulaşarak, blok sayısını ve kendi validatorünüzü görebilirsiniz.
 
