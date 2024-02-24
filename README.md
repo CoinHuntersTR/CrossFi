@@ -96,7 +96,7 @@ crossfid tx staking delegate $(crossfid keys show cüzdanismi --bech val -a) 900
 > Dosya yolu bu şekildedir;  `/root/.mineplex-chain/config/priv_validator_key.json` bu dosyayı bir yere kayıt etmeyi unutmayın.
 
 
-## 4) Validator Bilgileriniz Güncelleme
+## 4) Validator Bilgilerini Güncelleme
 
 > Buradaki bilgileri güncelleyerek Validator Adınızı ve diğer değişiklikleri yapabilirsiniz.
 
@@ -112,7 +112,7 @@ crossfid tx staking edit-validator \
 --gas auto --gas-adjustment 1.5 --gas-prices 10000000000000mpx \
 -y
 ```
-### Validatorüne Resim eklemek için;
+### Validatore Resim ekleme;
 
 > [BURADAN](https://keybase.io/) keybase sitesine gidin, kayıt olup resminizi yükleyip adımları takip edin. size `F0F603C1097C160F` benzer ifade verecek, onu `identity` ID olarak eklerseniz validator resminiz görünür.
 
