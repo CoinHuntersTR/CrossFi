@@ -14,9 +14,9 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 sudo apt update && sudo apt upgrade -y
 ```
 
-### Otomatik script çalıştırıp sizden istenen cüzdan ismi ve Validator ismini giriyorsunuz.
+### Otomatik script çalıştırıp sizden istenen cüzdan ve Validator ismini giriyorsunuz.
 
-> Port yerine, değişiklik yapmayacaksanız 26 yazıp enter yapmanız yeterli.
+> Port yerinde, değişiklik yapmanıza gerekyok,  26 yazıp enter yapmanız yeterli.
 
 ```
 wget -q -O crossfi.sh https://raw.githubusercontent.com/CoinHuntersTR/CrossFi/main/crossfi.sh && chmod +x crossfi.sh && ./crossfi.sh
@@ -24,7 +24,7 @@ wget -q -O crossfi.sh https://raw.githubusercontent.com/CoinHuntersTR/CrossFi/ma
 
 ###  Test cüzdanını ekleme
 
-> Buradaki cüzdanınız başvuru yaptığınız ve içine test tokenleri olan cüzdanınızın kelimeleri ile node içine tekrar kuruyoruz.
+> Burada, Başvuru yaparken veya maille token istediğiniz cüzdanı, node içine aktaracağız.
 
 > `cüzdanismi` yerine oto scriptte verdiğiniz ismi verin.
 
