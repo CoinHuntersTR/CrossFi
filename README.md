@@ -112,5 +112,7 @@ crossfid tx staking edit-validator \
 --gas auto --gas-adjustment 1.5 --gas-prices 10000000000000mpx \
 -y
 ```
+### Validatorüne Resim eklemek için;
 
+> [BURADAN](https://keybase.io/) keybase sitesine gidin, kayıt olup resminizi yükleyip adımları takip edin. size `F0F603C1097C160F` benzer ifade verecek, onu `identity` ID olarak eklerseniz validator resminiz görünür.
 
