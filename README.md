@@ -94,3 +94,23 @@ crossfid tx staking delegate $(crossfid keys show cüzdanismi --bech val -a) 900
 > Bunun için winscp veya mobaxterm kullanabilirsiniz.
 
 > Dosya yolu bu şekildedir;  `/root/.mineplex-chain/config/priv_validator_key.json` bu dosyayı bir yere kayıt etmeyi unutmayın.
+
+
+## 4) Validator Bilgileriniz Güncelleme
+
+> Buradaki bilgileri güncelleyerek Validator Adınızı ve diğer değişiklikleri yapabilirsiniz.
+
+```
+crossfid tx staking edit-validator \
+--new-moniker "YOUR_MONIKER_NAME" \
+--identity "YOUR_KEYBASE_ID" \
+--details "YOUR_DETAILS" \
+--website "YOUR_WEBSITE_URL" \
+--chain-id crossfi-evm-testnet-1 \
+--commission-max-change-rate 0.01 \
+--from cüzdanismi \
+--gas auto --gas-adjustment 1.5 --gas-prices 10000000000000mpx \
+-y
+```
+
+
