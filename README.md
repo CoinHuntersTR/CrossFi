@@ -57,7 +57,7 @@ crossfid status 2>&1 | jq .SyncInfo
 
 ```
 crossfid tx staking create-validator \
---amount 1000000mpx \
+--amount 9000000000000000000000mpx \
 --from $WALLET \
 --commission-rate 0.1 \
 --commission-max-rate 0.2 \
