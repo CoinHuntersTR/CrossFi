@@ -85,3 +85,12 @@ crossfid tx staking delegate $(crossfid keys show cüzdanismi --bech val -a) 900
 
 > [BURADAN](https://testnet.itrocket.net/crossfi) explorer ulaşarak, blok sayısını ve kendi validatorünüzü görebilirsiniz.
 
+## 3) Yedek Alma
+
+> Sunucuna bir şey oldu. Hetzner kapattı. Yada yanlışlıkla sildiniz. Size lazım olan dosyayı yedekledikten sonra sorun yok.
+
+> Nasıl yedekliyoruz? Cosmos projelerinde bir tane dosyayı bilgisayarınıza indirdiğinizde işlem tamamdır.  `priv_validator_key.json` dosyasını indirmemiz gerekiyor.
+
+> Bunun için winscp veya mobaxterm kullanabilirsiniz.
+
+> Dosya yolu bu şekildedir;  `/root/.mineplex-chain/config/priv_validator_key.json` bu dosyayı bir yere kayıt etmeyi unutmayın.
