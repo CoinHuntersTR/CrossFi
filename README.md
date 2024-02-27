@@ -38,7 +38,7 @@ crossfid keys add cüzdanismi --recover
 
 ### Senkronizasyon Kontrolü
 
-![Ekran görüntüsü 2024-02-25 004315](https://github.com/CoinHuntersTR/Babylon-Testnet3/assets/111747226/16dd6048-6700-4bf4-b6d7-fd037f5331f0)
+![image](https://github.com/hcytmz/CoinHuntersTR-CrossFi/assets/35812219/b0573bf0-5726-4447-9b13-3033ae35ca90)
 
 > Komut sonrasında `false` çıktısı aldığınızda Validator kurulumuna geçebilirsiniz.
 
